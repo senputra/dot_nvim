@@ -25,7 +25,7 @@ return {
           { section = 'keys' },
         },
       },
-      explorer = { enabled = true },
+      explorer = { enabled = true, hidden = true },
       indent = { enabled = true },
       input = { enabled = true },
       notifier = {
